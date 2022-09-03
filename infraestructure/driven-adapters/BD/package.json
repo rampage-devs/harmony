@@ -1,8 +1,18 @@
 {
-  
+ 
   "dependencies": {
-"gateway":"../../../domain/gateway"
+ 
+   
+  "@nestjs/typeorm": "^9.0.1",
+ 
+   
+  "gateway": "../../../domain/gateway",
+ 
+   
+  "mysql2": "^2.3.3",
+ 
+   
+  "typeorm": "^0.3.9"
+ 
   }
-  
-  
 }

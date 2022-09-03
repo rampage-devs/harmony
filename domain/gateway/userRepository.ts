@@ -1,4 +1,5 @@
-export interface UserRepository {
-  id: string;
-  nombre: string;
+export const USERREPOSITORY = 'USER REPOSITORY';
+
+export interface UserRepository{
+  save(): void;
 }
