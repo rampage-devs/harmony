@@ -1,6 +1,8 @@
 {
+  
   "dependencies": {
-"domain-model":"../../domain/model"
-
+"gateway":"../../../domain/gateway"
   }
+  
+  
 }
